@@ -1,0 +1,2 @@
+01-ekscluster-terraform-manifests/*-key/*.pem
+05-kube-manifests-ingress-externaldns/*
